@@ -1,32 +1,32 @@
-# LeetCode-SQL---50-Solutions
-LeetCode SQL - 50 Solutions using MySQL
+# LeetCode SQL 50 Solutions
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0197-rising-temperature](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/0197-rising-temperature) |
-| [0577-employee-bonus](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/0577-employee-bonus) |
-| [0584-find-customer-referee](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/0584-find-customer-referee) |
-| [0595-big-countries](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/0595-big-countries) |
-| [0596-classes-with-at-least-5-students](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/0596-classes-with-at-least-5-students) |
-| [0619-biggest-single-number](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/0619-biggest-single-number) |
-| [0620-not-boring-movies](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/0620-not-boring-movies) |
-| [1068-product-sales-analysis-i](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1068-product-sales-analysis-i) |
-| [1075-project-employees-i](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1075-project-employees-i) |
-| [1141-user-activity-for-the-past-30-days-i](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
-| [1148-article-views-i](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1148-article-views-i) |
-| [1211-queries-quality-and-percentage](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1211-queries-quality-and-percentage) |
-| [1251-average-selling-price](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1251-average-selling-price) |
-| [1280-students-and-examinations](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1280-students-and-examinations) |
-| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
-| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
-| [1633-percentage-of-users-attended-a-contest](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
-| [1661-average-time-of-process-per-machine](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1661-average-time-of-process-per-machine) |
-| [1683-invalid-tweets](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1683-invalid-tweets) |
-| [1729-find-followers-count](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1729-find-followers-count) |
-| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
-| [1757-recyclable-and-low-fat-products](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
-| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
-<!---LeetCode Topics End-->
+Solutions to the LeetCode SQL 50 Study Plan.
+
+## Overview
+
+This repository contains my solutions to the SQL problems included in the LeetCode SQL 50 Study Plan.
+
+I use SQL practice to strengthen my database querying skills, improve data manipulation techniques and build a solid foundation for data-driven applications.
+
+## Topics Covered
+
+* Basic SELECT Queries
+* Filtering and Sorting
+* Aggregate Functions
+* GROUP BY and HAVING
+* Joins
+* Subqueries
+* Common Table Expressions (CTEs)
+* Window Functions
+
+## Repository Structure
+
+Each file corresponds to a solved LeetCode SQL problem.
+
+## Platform
+
+* LeetCode SQL 50 Study Plan
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
