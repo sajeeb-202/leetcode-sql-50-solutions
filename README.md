@@ -38,6 +38,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/0610-triangle-judgement) |
+| [1484-group-sold-products-by-the-date](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1789-primary-department-for-each-employee](https://github.com/sajeeb-202/LeetCode-SQL---50-Solutions/tree/master/1789-primary-department-for-each-employee) |
